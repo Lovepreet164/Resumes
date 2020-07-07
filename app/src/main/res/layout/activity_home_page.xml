@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:id="@+id/coordinator"
     android:orientation="vertical"
-    tools:context=".MainActivity2">
+    tools:context=".HomePage">
 
 
     <com.google.android.material.appbar.AppBarLayout
